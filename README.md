@@ -14,7 +14,7 @@ A Python-based PDF protection tool that encrypts PDF files with a password to pr
 
 ## Technologies Used
 
-- Python3
+- Python 3
 - PyPDF2
 
 ## Installation
@@ -27,7 +27,7 @@ cd Pdf-password-protector
 ## Requirements
 
 ```bash
-pip install PyPDF2
+pip3 install PyPDF2
 ```
 
 ## Usage
